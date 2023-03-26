@@ -3,10 +3,10 @@
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-    "APPINSIGHTS_INSTRUMENTATIONKEY": "03049577-5ca5-4041-8af9-169de8371437",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "",
     "BlobArchiveContainer": "archive",
-    "CommonStorageConnetionString": "DefaultEndpointsProtocol=https;AccountName=pod03prdfrmsacct;AccountKey=LbZp4zbVoCVOSew/fPqVSDk8jy+U5kyXxpOxmkt+65zfl2ahaGt8T4W63+BPIfZYYscX2/rQQw7nHj6zN/X5Sw==;EndpointSuffix=core.windows.net",
+    "CommonStorageConnetionString": "",
     "HttpRequestTimeout": 100000,
-    "D365ConfigEntityName": "RckProPRD_d365_config_Products"
+    "D365ConfigEntityName": ""
   }
 }
